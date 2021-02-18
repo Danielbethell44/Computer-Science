@@ -1,1 +1,6 @@
+*.bak
+*.bak.*
+*.ckpt
+*.old
+*.pyc
 .DS_Store
