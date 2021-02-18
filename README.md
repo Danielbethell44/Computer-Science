@@ -10,7 +10,7 @@ This repository is to showcase my knowledge with lots of computer science topics
 </p>
 
 ## List of Implementations
-- [Data Structures](Data-Structures/)
-    - [Simple Linked List](Data-Structures/Simple-Linked-List/)
+- [Data Structures](data-structures/)
+    - [Simple Linked List](data-structures/Simple-Linked-List/)
 
 ## TODO
