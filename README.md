@@ -11,6 +11,6 @@ This repository is to showcase my knowledge with lots of computer science topics
 
 ## List of Implementations
 - [Data Structures](Data-Structures/)
-    - [Simple Linked List](Data-Structures//Simple-Linked-List/)
+    - [Simple Linked List](Data-Structures/Simple-Linked-List/)
 
 ## TODO
