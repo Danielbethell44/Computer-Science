@@ -113,9 +113,7 @@ class LinkedList:
             raise Exception("List is empty")
 
         if self.head.data == node:
-            new = Node(data)
-            new.next = self.head
-            self.head = new
+            self.push(data)
             return
         
         temp = self.head
@@ -223,7 +221,6 @@ class LinkedList:
             raise Exception("Index is out of bounds")
         
         next = temp.next.next
-        temp.next = None
         temp.next = next
 
     '''
